@@ -1,5 +1,5 @@
 <!-- Link to the list of contacts -->
-https://ibb.co/qmNrSqM
+https://ibb.co/mzxQfMC
 
 <!-- Link to the one contact get by id -->
 https://ibb.co/R98kThX

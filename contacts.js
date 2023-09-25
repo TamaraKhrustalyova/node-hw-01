@@ -3,6 +3,7 @@ import path from "path";
 import { nanoid } from "nanoid";
 
 const contactsPath = path.resolve("db", "contacts.json");
+// const moviesPath = path.join(__dirname, "contacts.json")
 
 const updateContactsList = contacts => fs.writeFile(contactsPath, JSON.stringify(contacts, null, 2));
 
